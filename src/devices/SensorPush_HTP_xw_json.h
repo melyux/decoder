@@ -51,16 +51,16 @@ const char* _SensorPush_HTP_xw_json_props = "{\"properties\":{\"tempc\":{\"unit\
 {
    "properties": {
       "tempc": {
-         "unit":"°C",
-         "name":"temperature"
-     },
+         "unit": "°C",
+         "name": "temperature"
+      },
       "hum": {
-         "unit":"%",
-         "name":"humidity"
-     },
+         "unit": "%",
+         "name": "humidity"
+      },
       "pres": {
-         "unit":"hPa",
-         "name":"pressure"
-     }
+         "unit": "hPa",
+         "name": "pressure"
+      }
    }
 })"""";*/
